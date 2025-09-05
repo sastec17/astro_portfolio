@@ -69,9 +69,13 @@
 
     .splash-heading h1 {
         color: var(--text-color);
-        font-size: 3.5em;
+        font-size: 3em;
         display: inline-block;
         max-width: 100%;
+    }
+
+    .splash-desc {
+        max-width: 90vw;
     }
 
     .typed-out {

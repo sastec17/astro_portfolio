@@ -1,6 +1,14 @@
 {
     "experiences": [
         {
+            "title": "Technical Product Manager & Adjunct Lecturer",
+            "company": "University of Michigan",
+            "mainPoint": "Roles where I can 'nerd out' every day!",
+            "description": "I partner with the Emerging Technologies team to craft accessible AI solutions for the University of Michigan's three campuses. On the side, I lecture for a graduate-level math course in the School of Information - where I've had a blast reworking the curriculum to better fit student needs.",
+            "dates": "June 2025 - Present",
+            "skills": ["Artificial Intelligence", "University Lecturing"]
+        },
+        {
             "title": "Data Structures and Algorithms Teaching Assistant",
             "company": "College of Engineering - University of Michigan",
             "mainPoint": "This is where I fell in love with teaching :)",
